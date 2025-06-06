@@ -9,6 +9,7 @@ header {
 }
 
 main {
+    margin: 0;
     background: #0A0519;
     height: 100vh;
     display: flex;
